@@ -1,0 +1,1282 @@
+[
+    {
+        "country": {
+            "en": "France",
+            "ar": "France"
+        },
+        "capital": {
+            "en": "Paris",
+            "ar": "Paris"
+        },
+        "language": {
+            "en": "French",
+            "ar": "French"
+        },
+        "currency": {
+            "en": "Euro",
+            "ar": "Euro"
+        },
+        "top_attractions": {
+            "en": [
+                "Eiffel Tower",
+                "Louvre Museum",
+                "Versailles Palace"
+            ],
+            "ar": [
+                "Eiffel Tower",
+                "Louvre Museum",
+                "Versailles Palace"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "summer": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "autumn": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            },
+            "winter": {
+                "en": "0-5°C",
+                "ar": "0-5°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (March - May, October - November)",
+            "ar": "Spring and Fall (March - May, October - November)"
+        },
+        "travel_tips": {
+            "en": [
+                "Book tickets for major attractions in advance.",
+                "Use public transport to save money.",
+                "Learn a few basic French phrases."
+            ],
+            "ar": [
+                "Book tickets for major attractions in advance.",
+                "Use public transport to save money.",
+                "Learn a few basic French phrases."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Spain",
+            "ar": "Spain"
+        },
+        "capital": {
+            "en": "Madrid",
+            "ar": "Madrid"
+        },
+        "language": {
+            "en": "Spanish",
+            "ar": "Spanish"
+        },
+        "currency": {
+            "en": "Euro",
+            "ar": "Euro"
+        },
+        "top_attractions": {
+            "en": [
+                "Sagrada Familia",
+                "Alhambra Palace",
+                "Park Güell"
+            ],
+            "ar": [
+                "Sagrada Familia",
+                "Alhambra Palace",
+                "Park Güell"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "15-25°C",
+                "ar": "15-25°م"
+            },
+            "summer": {
+                "en": "30-35°C",
+                "ar": "30-35°م"
+            },
+            "autumn": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "winter": {
+                "en": "5-10°C",
+                "ar": "5-10°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (April - June, September - November)",
+            "ar": "Spring and Fall (April - June, September - November)"
+        },
+        "travel_tips": {
+            "en": [
+                "Carry water, especially during summer.",
+                "Avoid peak hours in tourist hotspots.",
+                "Try local delicacies like tapas."
+            ],
+            "ar": [
+                "Carry water, especially during summer.",
+                "Avoid peak hours in tourist hotspots.",
+                "Try local delicacies like tapas."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "United States",
+            "ar": "United States"
+        },
+        "capital": {
+            "en": "Washington, D.C.",
+            "ar": "Washington, D.C."
+        },
+        "language": {
+            "en": "English",
+            "ar": "English"
+        },
+        "currency": {
+            "en": "US Dollar",
+            "ar": "US Dollar"
+        },
+        "top_attractions": {
+            "en": [
+                "Statue of Liberty",
+                "Grand Canyon",
+                "Yellowstone National Park"
+            ],
+            "ar": [
+                "Statue of Liberty",
+                "Grand Canyon",
+                "Yellowstone National Park"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "winter": {
+                "en": "-5-10°C",
+                "ar": "-5-10°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (April - June, September - November)",
+            "ar": "Spring and Fall (April - June, September - November)"
+        },
+        "travel_tips": {
+            "en": [
+                "Consider internal flights for long distances.",
+                "Be prepared for tipping in restaurants.",
+                "Check visa requirements before traveling."
+            ],
+            "ar": [
+                "Consider internal flights for long distances.",
+                "Be prepared for tipping in restaurants.",
+                "Check visa requirements before traveling."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "China",
+            "ar": "China"
+        },
+        "capital": {
+            "en": "Beijing",
+            "ar": "Beijing"
+        },
+        "language": {
+            "en": "Mandarin",
+            "ar": "Mandarin"
+        },
+        "currency": {
+            "en": "Chinese Yuan",
+            "ar": "Chinese Yuan"
+        },
+        "top_attractions": {
+            "en": [
+                "Great Wall of China",
+                "Forbidden City",
+                "Terracotta Army"
+            ],
+            "ar": [
+                "Great Wall of China",
+                "Forbidden City",
+                "Terracotta Army"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "winter": {
+                "en": "-10-5°C",
+                "ar": "-10-5°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (April - June, September - October)",
+            "ar": "Spring and Fall (April - June, September - October)"
+        },
+        "travel_tips": {
+            "en": [
+                "Use translation apps for communication.",
+                "Carry cash as some places don't accept cards.",
+                "Avoid traveling during Chinese holidays."
+            ],
+            "ar": [
+                "Use translation apps for communication.",
+                "Carry cash as some places don't accept cards.",
+                "Avoid traveling during Chinese holidays."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Italy",
+            "ar": "Italy"
+        },
+        "capital": {
+            "en": "Rome",
+            "ar": "Rome"
+        },
+        "language": {
+            "en": "Italian",
+            "ar": "Italian"
+        },
+        "currency": {
+            "en": "Euro",
+            "ar": "Euro"
+        },
+        "top_attractions": {
+            "en": [
+                "Colosseum",
+                "Venice Grand Canal",
+                "Leaning Tower of Pisa"
+            ],
+            "ar": [
+                "Colosseum",
+                "Venice Grand Canal",
+                "Leaning Tower of Pisa"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "winter": {
+                "en": "5-10°C",
+                "ar": "5-10°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (April - June, September - October)",
+            "ar": "Spring and Fall (April - June, September - October)"
+        },
+        "travel_tips": {
+            "en": [
+                "Buy tickets for museums in advance.",
+                "Explore local neighborhoods for authentic food.",
+                "Be cautious of pickpockets in crowded areas."
+            ],
+            "ar": [
+                "Buy tickets for museums in advance.",
+                "Explore local neighborhoods for authentic food.",
+                "Be cautious of pickpockets in crowded areas."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "United Kingdom",
+            "ar": "United Kingdom"
+        },
+        "capital": {
+            "en": "London",
+            "ar": "London"
+        },
+        "language": {
+            "en": "English",
+            "ar": "English"
+        },
+        "currency": {
+            "en": "Pound Sterling",
+            "ar": "Pound Sterling"
+        },
+        "top_attractions": {
+            "en": [
+                "Big Ben",
+                "Tower of London",
+                "Stonehenge"
+            ],
+            "ar": [
+                "Big Ben",
+                "Tower of London",
+                "Stonehenge"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            },
+            "summer": {
+                "en": "20-25°C",
+                "ar": "20-25°م"
+            },
+            "autumn": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            },
+            "winter": {
+                "en": "0-5°C",
+                "ar": "0-5°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Summer (April - August)",
+            "ar": "Spring and Summer (April - August)"
+        },
+        "travel_tips": {
+            "en": [
+                "Carry an umbrella as weather can change quickly.",
+                "Use contactless payment for public transport.",
+                "Book popular attractions like the London Eye in advance."
+            ],
+            "ar": [
+                "Carry an umbrella as weather can change quickly.",
+                "Use contactless payment for public transport.",
+                "Book popular attractions like the London Eye in advance."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Germany",
+            "ar": "Germany"
+        },
+        "capital": {
+            "en": "Berlin",
+            "ar": "Berlin"
+        },
+        "language": {
+            "en": "German",
+            "ar": "German"
+        },
+        "currency": {
+            "en": "Euro",
+            "ar": "Euro"
+        },
+        "top_attractions": {
+            "en": [
+                "Brandenburg Gate",
+                "Neuschwanstein Castle",
+                "Berlin Wall"
+            ],
+            "ar": [
+                "Brandenburg Gate",
+                "Neuschwanstein Castle",
+                "Berlin Wall"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            },
+            "summer": {
+                "en": "20-25°C",
+                "ar": "20-25°م"
+            },
+            "autumn": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            },
+            "winter": {
+                "en": "-5-5°C",
+                "ar": "-5-5°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (April - June, September - October)",
+            "ar": "Spring and Fall (April - June, September - October)"
+        },
+        "travel_tips": {
+            "en": [
+                "Learn a few German phrases for basic communication.",
+                "Try local food like bratwurst and pretzels.",
+                "Use train travel for efficient transportation."
+            ],
+            "ar": [
+                "Learn a few German phrases for basic communication.",
+                "Try local food like bratwurst and pretzels.",
+                "Use train travel for efficient transportation."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Thailand",
+            "ar": "Thailand"
+        },
+        "capital": {
+            "en": "Bangkok",
+            "ar": "Bangkok"
+        },
+        "language": {
+            "en": "Thai",
+            "ar": "Thai"
+        },
+        "currency": {
+            "en": "Thai Baht",
+            "ar": "Thai Baht"
+        },
+        "top_attractions": {
+            "en": [
+                "Grand Palace",
+                "Phi Phi Islands",
+                "Chiang Mai Temples"
+            ],
+            "ar": [
+                "Grand Palace",
+                "Phi Phi Islands",
+                "Chiang Mai Temples"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "30-35°C",
+                "ar": "30-35°م"
+            },
+            "summer": {
+                "en": "30-35°C",
+                "ar": "30-35°م"
+            },
+            "autumn": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "winter": {
+                "en": "20-25°C",
+                "ar": "20-25°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Cool season (November - February)",
+            "ar": "Cool season (November - February)"
+        },
+        "travel_tips": {
+            "en": [
+                "Respect local customs and dress modestly at temples.",
+                "Bargain prices at markets but stay polite.",
+                "Drink bottled water and avoid street food if unsure of hygiene."
+            ],
+            "ar": [
+                "Respect local customs and dress modestly at temples.",
+                "Bargain prices at markets but stay polite.",
+                "Drink bottled water and avoid street food if unsure of hygiene."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Mexico",
+            "ar": "Mexico"
+        },
+        "capital": {
+            "en": "Mexico City",
+            "ar": "Mexico City"
+        },
+        "language": {
+            "en": "Spanish",
+            "ar": "Spanish"
+        },
+        "currency": {
+            "en": "Mexican Peso",
+            "ar": "Mexican Peso"
+        },
+        "top_attractions": {
+            "en": [
+                "Chichen Itza",
+                "Cancun Beaches",
+                "Frida Kahlo Museum"
+            ],
+            "ar": [
+                "Chichen Itza",
+                "Cancun Beaches",
+                "Frida Kahlo Museum"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "20-30°C",
+                "ar": "20-30°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "20-30°C",
+                "ar": "20-30°م"
+            },
+            "winter": {
+                "en": "15-25°C",
+                "ar": "15-25°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Dry season (November - April)",
+            "ar": "Dry season (November - April)"
+        },
+        "travel_tips": {
+            "en": [
+                "Avoid drinking tap water; stick to bottled water.",
+                "Use pesos for local transactions.",
+                "Explore local cuisine like tacos and tamales."
+            ],
+            "ar": [
+                "Avoid drinking tap water; stick to bottled water.",
+                "Use pesos for local transactions.",
+                "Explore local cuisine like tacos and tamales."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Turkey",
+            "ar": "Turkey"
+        },
+        "capital": {
+            "en": "Ankara",
+            "ar": "Ankara"
+        },
+        "language": {
+            "en": "Turkish",
+            "ar": "Turkish"
+        },
+        "currency": {
+            "en": "Turkish Lira",
+            "ar": "Turkish Lira"
+        },
+        "top_attractions": {
+            "en": [
+                "Hagia Sophia",
+                "Cappadocia",
+                "Pamukkale"
+            ],
+            "ar": [
+                "Hagia Sophia",
+                "Cappadocia",
+                "Pamukkale"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "winter": {
+                "en": "0-10°C",
+                "ar": "0-10°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (April - May, September - October)",
+            "ar": "Spring and Fall (April - May, September - October)"
+        },
+        "travel_tips": {
+            "en": [
+                "Learn basic Turkish phrases for easier communication.",
+                "Use public transport for cost-effective travel.",
+                "Try traditional dishes like kebabs and baklava."
+            ],
+            "ar": [
+                "Learn basic Turkish phrases for easier communication.",
+                "Use public transport for cost-effective travel.",
+                "Try traditional dishes like kebabs and baklava."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Japan",
+            "ar": "Japan"
+        },
+        "capital": {
+            "en": "Tokyo",
+            "ar": "Tokyo"
+        },
+        "language": {
+            "en": "Japanese",
+            "ar": "Japanese"
+        },
+        "currency": {
+            "en": "Japanese Yen",
+            "ar": "Japanese Yen"
+        },
+        "top_attractions": {
+            "en": [
+                "Mount Fuji",
+                "Tokyo Tower",
+                "Kyoto Temples"
+            ],
+            "ar": [
+                "Mount Fuji",
+                "Tokyo Tower",
+                "Kyoto Temples"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "winter": {
+                "en": "0-10°C",
+                "ar": "0-10°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring (March - May) and Autumn (September - November)",
+            "ar": "Spring (March - May) and Autumn (September - November)"
+        },
+        "travel_tips": {
+            "en": [
+                "Learn basic Japanese phrases for communication.",
+                "Use the efficient railway system to travel.",
+                "Try traditional Japanese food like sushi and ramen."
+            ],
+            "ar": [
+                "Learn basic Japanese phrases for communication.",
+                "Use the efficient railway system to travel.",
+                "Try traditional Japanese food like sushi and ramen."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Australia",
+            "ar": "Australia"
+        },
+        "capital": {
+            "en": "Canberra",
+            "ar": "Canberra"
+        },
+        "language": {
+            "en": "English",
+            "ar": "English"
+        },
+        "currency": {
+            "en": "Australian Dollar",
+            "ar": "Australian Dollar"
+        },
+        "top_attractions": {
+            "en": [
+                "Sydney Opera House",
+                "Great Barrier Reef",
+                "Uluru"
+            ],
+            "ar": [
+                "Sydney Opera House",
+                "Great Barrier Reef",
+                "Uluru"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "20-25°C",
+                "ar": "20-25°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "15-25°C",
+                "ar": "15-25°م"
+            },
+            "winter": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (September - November, March - May)",
+            "ar": "Spring and Fall (September - November, March - May)"
+        },
+        "travel_tips": {
+            "en": [
+                "Protect yourself from the sun with sunscreen and a hat.",
+                "Explore outdoor activities like snorkeling and hiking.",
+                "Drive carefully on long road trips, especially in remote areas."
+            ],
+            "ar": [
+                "Protect yourself from the sun with sunscreen and a hat.",
+                "Explore outdoor activities like snorkeling and hiking.",
+                "Drive carefully on long road trips, especially in remote areas."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Canada",
+            "ar": "Canada"
+        },
+        "capital": {
+            "en": "Ottawa",
+            "ar": "Ottawa"
+        },
+        "language": {
+            "en": "English and French",
+            "ar": "English and French"
+        },
+        "currency": {
+            "en": "Canadian Dollar",
+            "ar": "Canadian Dollar"
+        },
+        "top_attractions": {
+            "en": [
+                "Niagara Falls",
+                "Banff National Park",
+                "CN Tower"
+            ],
+            "ar": [
+                "Niagara Falls",
+                "Banff National Park",
+                "CN Tower"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "summer": {
+                "en": "20-30°C",
+                "ar": "20-30°م"
+            },
+            "autumn": {
+                "en": "5-15°C",
+                "ar": "5-15°م"
+            },
+            "winter": {
+                "en": "-15-0°C",
+                "ar": "-15-0°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Summer (June - August) and Fall (September - October)",
+            "ar": "Summer (June - August) and Fall (September - October)"
+        },
+        "travel_tips": {
+            "en": [
+                "Dress warmly during the winter months.",
+                "Explore the natural beauty of national parks.",
+                "Try local delicacies like poutine and maple syrup."
+            ],
+            "ar": [
+                "Dress warmly during the winter months.",
+                "Explore the natural beauty of national parks.",
+                "Try local delicacies like poutine and maple syrup."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Greece",
+            "ar": "Greece"
+        },
+        "capital": {
+            "en": "Athens",
+            "ar": "Athens"
+        },
+        "language": {
+            "en": "Greek",
+            "ar": "Greek"
+        },
+        "currency": {
+            "en": "Euro",
+            "ar": "Euro"
+        },
+        "top_attractions": {
+            "en": [
+                "Acropolis of Athens",
+                "Santorini",
+                "Meteora"
+            ],
+            "ar": [
+                "Acropolis of Athens",
+                "Santorini",
+                "Meteora"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "15-25°C",
+                "ar": "15-25°م"
+            },
+            "summer": {
+                "en": "30-35°C",
+                "ar": "30-35°م"
+            },
+            "autumn": {
+                "en": "15-25°C",
+                "ar": "15-25°م"
+            },
+            "winter": {
+                "en": "5-15°C",
+                "ar": "5-15°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (April - June, September - October)",
+            "ar": "Spring and Fall (April - June, September - October)"
+        },
+        "travel_tips": {
+            "en": [
+                "Wear comfortable shoes for exploring ancient sites.",
+                "Try local Greek dishes like moussaka and souvlaki.",
+                "Avoid peak tourist season in summer for a quieter experience."
+            ],
+            "ar": [
+                "Wear comfortable shoes for exploring ancient sites.",
+                "Try local Greek dishes like moussaka and souvlaki.",
+                "Avoid peak tourist season in summer for a quieter experience."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Netherlands",
+            "ar": "Netherlands"
+        },
+        "capital": {
+            "en": "Amsterdam",
+            "ar": "Amsterdam"
+        },
+        "language": {
+            "en": "Dutch",
+            "ar": "Dutch"
+        },
+        "currency": {
+            "en": "Euro",
+            "ar": "Euro"
+        },
+        "top_attractions": {
+            "en": [
+                "Anne Frank House",
+                "Van Gogh Museum",
+                "Keukenhof Gardens"
+            ],
+            "ar": [
+                "Anne Frank House",
+                "Van Gogh Museum",
+                "Keukenhof Gardens"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            },
+            "summer": {
+                "en": "20-25°C",
+                "ar": "20-25°م"
+            },
+            "autumn": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            },
+            "winter": {
+                "en": "0-5°C",
+                "ar": "0-5°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring (March - May) and Summer (June - August)",
+            "ar": "Spring (March - May) and Summer (June - August)"
+        },
+        "travel_tips": {
+            "en": [
+                "Rent a bike to explore cities like Amsterdam.",
+                "Book museum tickets online to skip queues.",
+                "Visit tulip fields in spring for stunning views."
+            ],
+            "ar": [
+                "Rent a bike to explore cities like Amsterdam.",
+                "Book museum tickets online to skip queues.",
+                "Visit tulip fields in spring for stunning views."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Portugal",
+            "ar": "Portugal"
+        },
+        "capital": {
+            "en": "Lisbon",
+            "ar": "Lisbon"
+        },
+        "language": {
+            "en": "Portuguese",
+            "ar": "Portuguese"
+        },
+        "currency": {
+            "en": "Euro",
+            "ar": "Euro"
+        },
+        "top_attractions": {
+            "en": [
+                "Belem Tower",
+                "Douro Valley",
+                "Pena Palace"
+            ],
+            "ar": [
+                "Belem Tower",
+                "Douro Valley",
+                "Pena Palace"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "15-20°C",
+                "ar": "15-20°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "15-25°C",
+                "ar": "15-25°م"
+            },
+            "winter": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (March - June, September - November)",
+            "ar": "Spring and Fall (March - June, September - November)"
+        },
+        "travel_tips": {
+            "en": [
+                "Wear comfortable shoes for walking in hilly cities.",
+                "Try local wines and traditional dishes like pastel de nata.",
+                "Use public transport for convenient travel."
+            ],
+            "ar": [
+                "Wear comfortable shoes for walking in hilly cities.",
+                "Try local wines and traditional dishes like pastel de nata.",
+                "Use public transport for convenient travel."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Malaysia",
+            "ar": "Malaysia"
+        },
+        "capital": {
+            "en": "Kuala Lumpur",
+            "ar": "Kuala Lumpur"
+        },
+        "language": {
+            "en": "Malay",
+            "ar": "Malay"
+        },
+        "currency": {
+            "en": "Malaysian Ringgit",
+            "ar": "Malaysian Ringgit"
+        },
+        "top_attractions": {
+            "en": [
+                "Petronas Towers",
+                "Langkawi Islands",
+                "Batu Caves"
+            ],
+            "ar": [
+                "Petronas Towers",
+                "Langkawi Islands",
+                "Batu Caves"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "summer": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "autumn": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "winter": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Year-round, but March - October is ideal for beaches.",
+            "ar": "Year-round, but March - October is ideal for beaches."
+        },
+        "travel_tips": {
+            "en": [
+                "Carry an umbrella for sudden rain showers.",
+                "Dress modestly when visiting religious sites.",
+                "Enjoy local street food but ensure it's freshly prepared."
+            ],
+            "ar": [
+                "Carry an umbrella for sudden rain showers.",
+                "Dress modestly when visiting religious sites.",
+                "Enjoy local street food but ensure it's freshly prepared."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "South Korea",
+            "ar": "South Korea"
+        },
+        "capital": {
+            "en": "Seoul",
+            "ar": "Seoul"
+        },
+        "language": {
+            "en": "Korean",
+            "ar": "Korean"
+        },
+        "currency": {
+            "en": "South Korean Won",
+            "ar": "South Korean Won"
+        },
+        "top_attractions": {
+            "en": [
+                "Gyeongbokgung Palace",
+                "N Seoul Tower",
+                "Jeju Island"
+            ],
+            "ar": [
+                "Gyeongbokgung Palace",
+                "N Seoul Tower",
+                "Jeju Island"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "10-20°C",
+                "ar": "10-20°م"
+            },
+            "winter": {
+                "en": "-5-5°C",
+                "ar": "-5-5°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring (March - May) and Autumn (September - November)",
+            "ar": "Spring (March - May) and Autumn (September - November)"
+        },
+        "travel_tips": {
+            "en": [
+                "Use public transport like subways for easy travel.",
+                "Try Korean BBQ and street food.",
+                "Learn basic Korean phrases for better communication."
+            ],
+            "ar": [
+                "Use public transport like subways for easy travel.",
+                "Try Korean BBQ and street food.",
+                "Learn basic Korean phrases for better communication."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Indonesia",
+            "ar": "Indonesia"
+        },
+        "capital": {
+            "en": "Jakarta",
+            "ar": "Jakarta"
+        },
+        "language": {
+            "en": "Indonesian",
+            "ar": "Indonesian"
+        },
+        "currency": {
+            "en": "Indonesian Rupiah",
+            "ar": "Indonesian Rupiah"
+        },
+        "top_attractions": {
+            "en": [
+                "Bali",
+                "Borobudur Temple",
+                "Komodo National Park"
+            ],
+            "ar": [
+                "Bali",
+                "Borobudur Temple",
+                "Komodo National Park"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "summer": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "autumn": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            },
+            "winter": {
+                "en": "25-30°C",
+                "ar": "25-30°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Dry season (April - October)",
+            "ar": "Dry season (April - October)"
+        },
+        "travel_tips": {
+            "en": [
+                "Pack light, breathable clothing for humid weather.",
+                "Respect local customs and traditions.",
+                "Use ride-hailing apps for easy transportation."
+            ],
+            "ar": [
+                "Pack light, breathable clothing for humid weather.",
+                "Respect local customs and traditions.",
+                "Use ride-hailing apps for easy transportation."
+            ]
+        }
+    },
+    {
+        "country": {
+            "en": "Hong Kong",
+            "ar": "Hong Kong"
+        },
+        "capital": {
+            "en": "N/A",
+            "ar": "N/A"
+        },
+        "language": {
+            "en": "Chinese (Cantonese)",
+            "ar": "Chinese (Cantonese)"
+        },
+        "currency": {
+            "en": "Hong Kong Dollar",
+            "ar": "Hong Kong Dollar"
+        },
+        "top_attractions": {
+            "en": [
+                "Victoria Peak",
+                "Disneyland Hong Kong",
+                "Tian Tan Buddha"
+            ],
+            "ar": [
+                "Victoria Peak",
+                "Disneyland Hong Kong",
+                "Tian Tan Buddha"
+            ]
+        },
+        "temperature": {
+            "spring": {
+                "en": "20-25°C",
+                "ar": "20-25°م"
+            },
+            "summer": {
+                "en": "25-35°C",
+                "ar": "25-35°م"
+            },
+            "autumn": {
+                "en": "20-25°C",
+                "ar": "20-25°م"
+            },
+            "winter": {
+                "en": "10-15°C",
+                "ar": "10-15°م"
+            }
+        },
+        "best_time_to_visit": {
+            "en": "Spring and Fall (March - May, September - November)",
+            "ar": "Spring and Fall (March - May, September - November)"
+        },
+        "travel_tips": {
+            "en": [
+                "Carry an Octopus card for public transport.",
+                "Explore street markets for unique souvenirs.",
+                "Try dim sum at a local restaurant."
+            ],
+            "ar": [
+                "Carry an Octopus card for public transport.",
+                "Explore street markets for unique souvenirs.",
+                "Try dim sum at a local restaurant."
+            ]
+        }
+    }
+]
